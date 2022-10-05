@@ -27,12 +27,6 @@ Since our proposed network is a 2D architecture, we need to extract 2D slices fr
 
 <br />
 
-### Results
-
-
-<br />
-
-<p align="center"><img src="https://github.com/Mehrdad-Noori/Brain-Tumor-Segmentation/blob/master/doc/table.jpg" width="500" height="130"></p>
 
 <br />
 
