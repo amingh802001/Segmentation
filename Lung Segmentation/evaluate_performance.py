@@ -11,7 +11,7 @@ from sklearn.metrics import precision_recall_curve
 from sklearn.metrics import jaccard_similarity_score
 from sklearn.metrics import f1_score
 from scipy.ndimage.morphology import binary_erosion
-
+import tensorflow as tf
 ####################################  Load Data #####################################
 folder    = './processed_data/'
 te_data   = np.load(folder+'data_test.npy')
